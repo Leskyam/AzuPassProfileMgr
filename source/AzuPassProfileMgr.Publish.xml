@@ -1,0 +1,51 @@
+<publishData>
+  <publishTarget publishUrl="C:\Documents and Settings\Leskyam\Escritorio\AzuPassProfileMgr\">
+    <file relUrl="imagenes/warning_small.gif" publishTime="12/17/2007 16:48:44" />
+    <file relUrl="bin/AzuPassProfileMgr.XmlSerializers.dll" publishTime="02/10/2009 10:03:18" />
+    <file relUrl="imagenes/error_small.gif" publishTime="12/17/2007 17:12:20" />
+    <file relUrl="bin/cs/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:18" />
+    <file relUrl="wucLogin.ascx" publishTime="02/10/2009 23:13:17" />
+    <file relUrl="bin/ru/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="about.aspx" publishTime="02/10/2009 23:13:17" />
+    <file relUrl="bin/AjaxControlToolkit.pdb" publishTime="08/21/2008 10:13:18" />
+    <file relUrl="register.aspx" publishTime="02/10/2009 23:13:17" />
+    <file relUrl="imagenes/tl_a.gif" publishTime="12/22/2007 09:52:32" />
+    <file relUrl="error.htm" publishTime="02/09/2009 16:29:08" />
+    <file relUrl="bin/AzuPassProfileMgr.dll" publishTime="02/10/2009 23:31:09" />
+    <file relUrl="bin/fr/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="imagenes/tr_g.gif" publishTime="12/22/2007 09:42:38" />
+    <file relUrl="bin/zh-CHS/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="bin/es/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="administrar.aspx" publishTime="02/10/2009 23:13:17" />
+    <file relUrl="bin/he/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="08/21/2008 10:13:18" />
+    <file relUrl="bin/de/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="imagenes/dot_w.gif" publishTime="12/21/2007 13:05:06" />
+    <file relUrl="imagenes/dot_g.gif" publishTime="12/22/2007 09:33:16" />
+    <file relUrl="web.config" publishTime="02/10/2009 23:30:39" />
+    <file relUrl="imagenes/calendar.png" publishTime="02/01/2009 09:44:02" />
+    <file relUrl="bin/nl/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="wucHeader.ascx" publishTime="02/10/2009 23:13:17" />
+    <file relUrl="bin/hi/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="Global.asax" publishTime="02/06/2009 08:47:10" />
+    <file relUrl="bin/ko/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="bin/pt/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="imagenes/logo_small.gif" publishTime="12/17/2007 17:39:24" />
+    <file relUrl="imagenes/curve_header_center.gif" publishTime="12/18/2007 18:09:16" />
+    <file relUrl="bin/AzuPassProfileMgr.pdb" publishTime="02/10/2009 23:31:08" />
+    <file relUrl="bin/zh-CHT/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="estilos/main.css" publishTime="02/10/2009 11:11:40" />
+    <file relUrl="bin/ja/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="bin/tr-TR/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="index.aspx" publishTime="02/10/2009 23:13:17" />
+    <file relUrl="imagenes/tl_g.gif" publishTime="12/22/2007 09:42:26" />
+    <file relUrl="imagenes/tr_a.gif" publishTime="12/22/2007 09:52:16" />
+    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:18" />
+    <file relUrl="profile.aspx" publishTime="02/10/2009 23:13:17" />
+    <file relUrl="change_passwd.aspx" publishTime="02/10/2009 23:13:17" />
+    <file relUrl="change_email.aspx" publishTime="02/10/2009 23:13:17" />
+    <file relUrl="imagenes/dot_a.gif" publishTime="12/22/2007 09:55:16" />
+    <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="08/21/2008 10:13:20" />
+    <file relUrl="resend_passwd.aspx" publishTime="02/10/2009 23:13:17" />
+  </publishTarget>
+</publishData>

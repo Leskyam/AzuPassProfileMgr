@@ -1,0 +1,42 @@
+E:\Inetpub\wwwroot\AzuPassProfileMgr\bin\AzuPassProfileMgr.dll
+E:\Inetpub\wwwroot\AzuPassProfileMgr\bin\AzuPassProfileMgr.pdb
+E:\Inetpub\wwwroot\AzuPassProfileMgr\obj\Debug\ResolveAssemblyReference.cache
+E:\Inetpub\wwwroot\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.dll
+E:\Inetpub\wwwroot\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.pdb
+E:\Inetpub\wwwroot\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.Global.resources
+E:\Inetpub\wwwroot\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.clswfIndex.resources
+E:\Inetpub\wwwroot\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.csproj.GenerateResource.Cache
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\AzuPassProfileMgr.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\AzuPassProfileMgr.pdb
+F:\Inetpub\wwwroot\AzuPassProfileMgr\obj\Debug\ResolveAssemblyReference.cache
+F:\Inetpub\wwwroot\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.Global.resources
+F:\Inetpub\wwwroot\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.clswfIndex.resources
+F:\Inetpub\wwwroot\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.csproj.GenerateResource.Cache
+F:\Inetpub\wwwroot\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.pdb
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\AjaxControlToolkit.pdb
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\ar\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\cs\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\de\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\es\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\fr\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\he\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\hi\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\it\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\ja\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\ko\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\nl\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\pt\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\ru\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\tr-TR\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\zh-CHS\AjaxControlToolkit.resources.dll
+F:\Inetpub\wwwroot\AzuPassProfileMgr\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Proyectos\Web\Sistema corporativo de autenticación (AzuPass)\app\source\AzuPassProfileMgr\bin\AzuPassProfileMgr.dll
+D:\Proyectos\Web\Sistema corporativo de autenticación (AzuPass)\app\source\AzuPassProfileMgr\bin\AzuPassProfileMgr.pdb
+D:\Proyectos\Web\Sistema corporativo de autenticación (AzuPass)\app\source\AzuPassProfileMgr\bin\AzuPassProfileMgr.dll.CodeAnalysisLog.xml
+D:\Proyectos\Web\Sistema corporativo de autenticación (AzuPass)\app\source\AzuPassProfileMgr\bin\AzuPassProfileMgr.dll.lastcodeanalysissucceeded
+D:\Proyectos\Web\Sistema corporativo de autenticación (AzuPass)\app\source\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.Global.resources
+D:\Proyectos\Web\Sistema corporativo de autenticación (AzuPass)\app\source\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.clswfIndex.resources
+D:\Proyectos\Web\Sistema corporativo de autenticación (AzuPass)\app\source\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.csproj.GenerateResource.Cache
+D:\Proyectos\Web\Sistema corporativo de autenticación (AzuPass)\app\source\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.dll
+D:\Proyectos\Web\Sistema corporativo de autenticación (AzuPass)\app\source\AzuPassProfileMgr\obj\Debug\AzuPassProfileMgr.pdb

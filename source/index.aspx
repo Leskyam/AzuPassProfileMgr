@@ -1,0 +1,6 @@
+<%@ Page Language="C#" AutoEventWireup="false" Inherits="AzuPassProfileMgr.clswfIndex"
+  CodeBehind="index.aspx.cs" Culture="es-MX" UICulture="es-MX" %><%@ Register Src="wucHeader.ascx" TagName="wucHeader" TagPrefix="uc1" %><%@ Register Src="wucLogin.ascx" TagName="wucLogin" TagPrefix="uc2" %><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es-mx"><head runat="server"><title>AzuPassProfileMgr - Inicio</title><meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type" /><meta name="description" content="P&aacute;gina de inicio del administrador de perfiles AzuPass." /><link rel="stylesheet" type="text/css" href="estilos/main.css" /></head><body><div id="page"><form id="frmIndex" runat="server"><div id="wrapper"><div id="header"><uc1:wucHeader ID="wucHeader" runat="server" /></div><div id="content"><div id="content_left"><div id="WSAdminsList" runat="server" class="left_list"></div><div id="WSServicedApplications" runat="server" class="left_list"></div></div><div id="content_right"><uc2:wucLogin ID="wucLogin" runat="server" /></div></div></div></form></div><script type="text/javascript">
+  if (document.getElementById('wucLogin_txtEmail') != null) { document.getElementById('wucLogin_txtEmail').focus(); }
+</script>
+
+</body></html>
